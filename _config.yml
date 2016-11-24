@@ -20,7 +20,6 @@ tiles-count: 4
 
 # Build settings
 markdown: kramdown
-theme: forty_jekyll_theme
 gems:
   - jekyll-feed
 exclude:
