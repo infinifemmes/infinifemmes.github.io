@@ -20,7 +20,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 4
 
 # Google services
-google_analytics: UA—88050318-1
+google_analytics: UA-88050318-1
 
 
 # Build settings
