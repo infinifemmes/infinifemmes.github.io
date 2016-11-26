@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Accueil
 landing-title: 'Bienvenue chez Infini Femmes'
 description: null
 image: null
