@@ -3,7 +3,7 @@ title-normal: Femmes
 title: Infini Femmes
 email: volatiana.landre@gmail.com
 nospammail: contact (AT) infinifemmes (DOT) com
-description: Coaching Postural, Yoga pré et post natal,<br/> Abdologie, Méthode de Gasquet
+description: Coaching Postural, Yoga pré et post natal,<br/> Abdologie, Méthode de Gasquet<br/><br/> Une offre créée par et pour les femmes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 street_address: 15 avenue Jean Monnet
@@ -15,6 +15,7 @@ phone: 07 81 50 60 83
 mapslink : https://goo.gl/maps/TiMVvb9iau92
 instagram_url: https://instagram.com/inifinifemmes
 facebook_url : https://www.facebook.com/volatiana.andriambolason.3
+twitter_url : https://twitter.com/VolatianaLandre
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
