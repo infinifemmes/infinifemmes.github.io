@@ -20,6 +20,7 @@ title: Les Cours
         <div class="3u 12u$(medium)"> <!-- gauche-->
           <h3>{{ aclass.name }}</h3>
           <a href="{{ aclass.bookinglink }}" class="button small" target="{{ aclass.bookingtarget }}">Réserver</a>
+					<br><br>
         </div>
         <div class="7u 12u$(medium)"> <!-- milieu-->
           <h3>{{ aclass.timetable }}</h3>
