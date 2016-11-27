@@ -45,7 +45,7 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
 .test(a.substr(0,4))) {
     hide(document.getElementById(b));
 }
-})(navigator.userAgent||navigator.vendor||window.opera, 'logo');
+})(navigator.userAgent||navigator.vendor||window.opera, '{{ aclass.id }}');
 
 				</script>
 
