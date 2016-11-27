@@ -29,7 +29,7 @@ title: Les Cours
           <a href="{{ aclass.mapslink }}" target="_blank">Comment venir?</a></p>
 
         </div>
-        <div id="logo" class="2u 12u$(medium)"> <!-- droite-->
+        <div id="{{ aclass.id }}" class="2u 12u$(medium)"> <!-- droite-->
           <span class="image fit"><img src="{{ site.baseurl }}/{{ aclass.logo }}" alt="" /></span>
         </div>
 				<script>
