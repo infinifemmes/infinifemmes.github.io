@@ -1,0 +1,26 @@
+- name: Yoga Maman Bébé
+  description : un moment de relaxation et de bien-être a partager avec bébé
+  location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  timetable : Mardi 14h-15h
+  logo : assets/images/origyn.jpg
+  bookinglink : http://origynandco.com
+  bookingtarget : _blank
+
+- name: Yoga Prénatal
+  description : un moment de relaxation et de bien-être pour les futures mamans
+  location : Infini Femmes, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
+  mapslink : https://goo.gl/maps/TiMVvb9iau92
+  timetable : Jeudi 19h-21h
+  logo : assets/images/Logo-white.png
+  bookinglink : "#contact"
+  bookingtarget :
+
+- name: Yoga Tout Court
+  description : un moment de relaxation et de bien-être a partager avec soi même
+  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  timetable : Mercredi 14h-15h
+  logo : assets/images/health_city_logo.jpg
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
