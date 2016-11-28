@@ -1,3 +1,4 @@
+
 title-bold: Infini
 title-normal: Femmes
 title: Infini Femmes
@@ -30,6 +31,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
