@@ -5,7 +5,7 @@ email: volatiana.landre@gmail.com
 nospammail: contact (AT) infinifemmes (DOT) com
 description: Coaching Postural, Yoga pré et post natal,<br/> Abdologie, Méthode de Gasquet<br/><br/> Une offre créée par et pour les femmes
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://infinifemmes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 street_address: 15 avenue Jean Monnet
 city: Issy Les Moulineaux
 state:
@@ -18,7 +18,7 @@ facebook_url : https://www.facebook.com/volatiana.andriambolason.3
 twitter_url : https://twitter.com/VolatianaLandre
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
 # Google services
@@ -29,6 +29,7 @@ google_analytics: UA-88050318-1
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
