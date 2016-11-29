@@ -1,29 +1,59 @@
-- name: Yoga Maman Bébé
+- name: Yoga Post Natal
   id: cours1
-  description : un moment de relaxation et de bien-être a partager avec bébé
+  description : un moment de relaxation et de bien-être pour réapprivoiser son corps (bébé bienvenu)
   location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
   mapslink : https://goo.gl/maps/27fvtLx3kEs
-  timetable : Mardi 14h-15h
+  timetable : Mardi 9h, Mercredi 10h, Jeudi 9h (durée 1h)
   logo : assets/images/origyn.jpg
   bookinglink : http://origynandco.com
   bookingtarget : _blank
 
-- name: Yoga Prénatal
+- name: Yoga Pré Natal
   id: cours2
-  description : un moment de relaxation et de bien-être pour les futures mamans
-  location : Infini Femmes, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
+  description : Apaiser ses douleurs et préparer cette belle "rencontre"
+  location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  timetable : Jeudi 10h (durée 1h)
+  logo : assets/images/origyn.jpg
+  bookinglink : http://origynandco.com
+  bookingtarget : _blank
+
+- name: Yoga Pour Tous
+  id: cours3
+  description : Niveau intermédiaire
+  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  timetable : Mercredi 8h (durée 1h)
+  logo : assets/images/health_city_logo.jpg
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
+
+- name: Yoga Pour Tous
+  id: cours4
+  description : Niveau avancé
+  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  timetable : Jeudi 20h (durée 1h)
+  logo : assets/images/health_city_logo.jpg
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
+
+- name: Coaching personnel<br>Small group
+  id: cours5
+  description :
+  location : Cabinet L'île aux futurs parents, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
   mapslink : https://goo.gl/maps/TiMVvb9iau92
-  timetable : Jeudi 19h-21h
+  timetable : Mardi 18h-22h
   logo : assets/images/Logo-white.png
   bookinglink : "#contact"
   bookingtarget :
 
-- name: Yoga Tout Court
-  id: cours3
-  description : un moment de relaxation et de bien-être a partager avec soi même
-  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
-  mapslink : https://goo.gl/maps/q3kscawXk1T2
-  timetable : Mercredi 14h-15h
-  logo : assets/images/health_city_logo.jpg
-  bookinglink : https://www.healthcity.fr
-  bookingtarget : _blank
+- name: Coaching personnel<br>Small group
+  id: cours6
+  description :
+  location : Cabinet L'île aux futurs parents, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
+  mapslink : https://goo.gl/maps/TiMVvb9iau92
+  timetable : Mercredi 14h-18h
+  logo : assets/images/Logo-white.png
+  bookinglink : "#contact"
+  bookingtarget :
