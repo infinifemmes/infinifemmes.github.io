@@ -17,6 +17,7 @@ mapslink : https://goo.gl/maps/TiMVvb9iau92
 instagram_url: https://instagram.com/inifinifemmes
 facebook_url : https://www.facebook.com/volatiana.andriambolason.3
 twitter_url : https://twitter.com/VolatianaLandre
+googleplus_url : https://plus.google.com/109937627922238698030
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,6 +25,20 @@ tiles-count: 4
 
 # Google services
 google_analytics: UA-88050318-1
+
+
+#SEO
+twitter:
+  username: VolatianaLandre
+facebook:
+  publisher: https://www.facebook.com/volatiana.andriambolason.3
+social:
+  name: Infini Femmes
+  links:
+    - https://instagram.com/inifinifemmes
+    - https://twitter.com/VolatianaLandre
+    - https://www.facebook.com/volatiana.andriambolason.3
+    - https://plus.google.com/109937627922238698030
 
 
 # Build settings
