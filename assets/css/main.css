@@ -3368,7 +3368,9 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
+			/*background-color: #242943;*/
+			background-color: rgba(36, 41, 67, 0.39);
+
 			content: '';
 			display: block;
 			height: 100%;
