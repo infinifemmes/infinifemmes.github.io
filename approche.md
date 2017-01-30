@@ -22,4 +22,4 @@ Réapprenons donc ensemble à prendre le temps de nous poser, à respecter et à
   Le Yoga est venu plus tard et a débuté par le Yin Yoga et le Yoga Vinyasa. Il s'est vite imposé comme un nouveau mode de vie. C'est ainsi que depuis plus de deux ans, je donne des cours de Yoga pré et post natal. Certifiée "Sport & Maternité" (2016) et "Relation Mère/enfant - techniques de Massage bébé" (2014) auprès du <a href="http://www.degasquet.com" target="_blank">De Gasquet Institut</a>, mon expérience de maman m'a conduite à créer Infini Femmes.
 
   Pour en savoir plus : <a href="http://www.degasquet.com" target="_blank">De Gasquet Institut</a>
-  <a href="http://www.lechappee.com/" target="_blank">L'échappée Paris</a>
+ 
