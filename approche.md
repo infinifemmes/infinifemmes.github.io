@@ -1,4 +1,3 @@
-
 ---
 layout: postnoimage
 title: L'Approche
