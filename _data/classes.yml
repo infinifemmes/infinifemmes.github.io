@@ -1,9 +1,9 @@
-- name: Yoga Post Natal
+- name: Yoga Maman Bébé
   id: cours1
-  description : un moment de relaxation et de bien-être pour réapprivoiser son corps (bébé bienvenu)
+  description : un moment de relaxation et de bien-être avec bébé
   location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
   mapslink : https://goo.gl/maps/27fvtLx3kEs
-  timetable : Mardi 9h, Mercredi 10h, Jeudi 9h (durée 1h)
+  timetable : Vendredi 11h30 (durée 1h)
   logo : assets/images/origyn.jpg
   bookinglink : http://origynandco.com
   bookingtarget : _blank
@@ -13,22 +13,22 @@
   description : Apaiser ses douleurs et préparer cette belle "rencontre"
   location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
   mapslink : https://goo.gl/maps/27fvtLx3kEs
-  timetable : Jeudi 10h (durée 1h)
+  timetable : Lundi 18h (durée 1h)
   logo : assets/images/origyn.jpg
   bookinglink : http://origynandco.com
   bookingtarget : _blank
 
-- name: Yoga Pour Tous
+- name: Yoga Vinyasa
   id: cours3
   description : Niveau intermédiaire
-  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
-  mapslink : https://goo.gl/maps/q3kscawXk1T2
-  timetable : Mercredi 8h (durée 1h)
-  logo : assets/images/health_city_logo.jpg
-  bookinglink : https://www.healthcity.fr
+  location : Origyn, 13 rue Victor Hugo, 92800 Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  timetable : Lundi 19h (durée 1h)
+  logo : assets/images/origyn.jpg
+  bookinglink : http://origynandco.com
   bookingtarget : _blank
 
-- name: Yoga Pour Tous
+- name: Yoga Vinyasa
   id: cours4
   description : Niveau avancé
   location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
@@ -38,22 +38,12 @@
   bookinglink : https://www.healthcity.fr
   bookingtarget : _blank
 
-- name: Coaching personnel<br>Small group
+- name: Yoga Vinyasa
   id: cours5
-  description :
-  location : Cabinet L'île aux futurs parents, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
-  mapslink : https://goo.gl/maps/TiMVvb9iau92
-  timetable : Mardi 18h-22h
-  logo : assets/images/Logo-white.png
-  bookinglink : "#contact"
-  bookingtarget :
-
-- name: Coaching personnel<br>Small group
-  id: cours6
-  description :
-  location : Cabinet L'île aux futurs parents, 15 avenue Jean Monnet, 92130 Issy Les Moulineaux
-  mapslink : https://goo.gl/maps/TiMVvb9iau92
-  timetable : Mercredi 14h-18h
-  logo : assets/images/Logo-white.png
-  bookinglink : "#contact"
-  bookingtarget :
+  description : Niveau intermédiaire
+  location : Healthcity, 62 avenue de la Motte Piquet, 75015 Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  timetable : Dimanche 09h30 (durée 1h30)
+  logo : assets/images/health_city_logo.jpg
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
