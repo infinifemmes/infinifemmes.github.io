@@ -7,14 +7,14 @@ nospammail: contact@infinifemmes.com
 description: Coaching Postural, Yoga pré et post natal,<br/> Abdologie, Méthode de Gasquet<br/><br/> Une offre créée par et pour les femmes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.infinifemmes.com" # the base hostname & protocol for your site, e.g. http://example.com
-street_address: 1 rue du Val
+street_address:
 city: Meudon
 state:
 zip_code: 92190
 country:
 siretnumber : 51203587400027
 phone: 07 81 50 60 83
-mapslink : https://goo.gl/maps/7z1aMtYnAer
+mapslink : https://goo.gl/maps/QdmDCauytZB2
 instagram_url: https://instagram.com/infinifemmes
 facebook_url : https://www.facebook.com/Infinifemmes/
 twitter_url : https://twitter.com/VolatianaLandre
