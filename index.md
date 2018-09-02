@@ -1,8 +1,9 @@
 ---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Yoga - Coaching postural | Infini Femme
-landing-title: 'Bienvenue chez Infini Femmes'
-description: Coaching Postural, cours de Yoga pré et post natal à Paris, Puteaux, Issy Les Moulineaux, Versailles (Méthode de Gasquet)
-image: http://www.infinifemmes.com/assets/images/pic02c.jpg
-author: null
+title: Accueil
+icon: fa-home
+order: 1
 ---

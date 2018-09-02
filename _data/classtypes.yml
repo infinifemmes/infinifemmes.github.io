@@ -1,0 +1,80 @@
+- name: Yoga Prénatal
+  id: LundiPre
+  location : Origyn, Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  day : Lundi
+  timing : 18h00 - 19h00
+  bookinglink : http://origynandco.com
+  bookingtarget : _blank
+
+- name: Yoga Vinyasa
+  id: LundiVin
+  location : Origyn, Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  day : Lundi
+  timing : 19h00 - 20h00
+  bookinglink : http://origynandco.com
+  bookingtarget : _blank
+
+- name: Yoga Vinyasa
+  id: MardiBouygues
+  location : Bouygues Construction
+  mapslink :
+  day : Mardi
+  timing : 12h00 - 13h00
+  bookinglink :
+  bookingtarget :
+
+- name: Yoga Vinyasa
+  id: JeudiHealth
+  location : Healthcity, Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  day : Jeudi
+  timing : 20h00 - 21h00
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
+
+- name: Yoga Vinyasa
+  id: DimancheHealth
+  location : Healthcity, Paris
+  mapslink : https://goo.gl/maps/q3kscawXk1T2
+  day : Dimanche
+  timing : 09h30 - 11h00
+  bookinglink : https://www.healthcity.fr
+  bookingtarget : _blank
+
+- name: Yoga Maman Bébé
+  id: VendrediMam
+  location : Origyn, Puteaux
+  mapslink : https://goo.gl/maps/27fvtLx3kEs
+  day : Vendredi
+  timing : 11h30 - 12h30
+  bookinglink : http://origynandco.com
+  bookingtarget : _blank
+
+- name: Yoga De Gasquet
+  id: Samedi
+  location : Infini Femmes, Meudon
+  mapslink :
+  day : Samedi
+  timing : 09h00 - 12h00
+  bookinglink : "#contactez-nous"
+  bookingtarget :
+
+- name: Yoga Prénatal De Gasquet
+  id: MercrediPre
+  location : Hôpital de 4 Villes, Saint Cloud
+  mapslink : https://goo.gl/maps/JPZW2hNg9C12
+  day : Mercredi
+  timing : 10h30 - 11h45
+  bookinglink : https://clients.mindbodyonline.com/classic/home?studioid=340178
+  bookingtarget : _blank
+
+- name: Yoga Postnatal De Gasquet
+  id: MercrediPost
+  location : Hôpital de 4 Villes, Saint Cloud
+  mapslink : https://goo.gl/maps/JPZW2hNg9C12
+  day : Mercredi
+  timing : 12h00 - 13h15
+  bookinglink : https://clients.mindbodyonline.com/classic/home?studioid=340178
+  bookingtarget : _blank
