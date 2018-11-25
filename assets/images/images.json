@@ -27,7 +27,7 @@ images: [
     URI: 'http://www.infinifemmes.com/assets/images/pic06.jpg',
         thumbnail: 'http://www.infinifemmes.com/assets/images/pic06.jpg',
         id: '5',
-        title: 'S'enraciner'
+        title: 'S enraciner'
       },
   {
     URI: 'http://www.infinifemmes.com/assets/images/pic07.jpg',
