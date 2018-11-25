@@ -1,0 +1,40 @@
+images: [
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic02.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic02.jpg',
+        id: '1',
+        title: 'Se retrouver'
+      },
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic03.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic03.jpg',
+        id: '2',
+        title: 'Approche De Gasquet'
+      },
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic04.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic04.jpg',
+        id: '3',
+        title: 'Proximité'
+      },
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic05.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic05.jpg',
+        id: '4',
+        title: 'Auto-grandissement'
+      },
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic06.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic06.jpg',
+        id: '5',
+        title: 'S'enraciner'
+      },
+  {
+    URI: 'http://www.infinifemmes.com/assets/images/pic07.jpg',
+        thumbnail: 'http://www.infinifemmes.com/assets/images/pic07.jpg',
+        id: '6',
+        title: 'Trikonasana'
+      }
+
+
+]
