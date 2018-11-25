@@ -1,4 +1,6 @@
-images: [
+{
+   description: 'Portfolio content', 
+  images: [
   {
     URI: 'http://www.infinifemmes.com/assets/images/pic02.jpg',
         thumbnail: 'http://www.infinifemmes.com/assets/images/pic02.jpg',
@@ -38,3 +40,4 @@ images: [
 
 
 ]
+}
